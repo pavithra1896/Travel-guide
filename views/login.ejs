@@ -1,0 +1,14 @@
+<% include ./partials/header %> 
+<style>
+	 #login{
+		 text-align: center;
+	}
+</style>
+<h1 id ="login">Login!</h1>
+<form id ="login" action="/login" method="POST">
+    <input type="text" name="username" placeholder="username">
+    <input type="password" name="password" placeholder="password">
+    <input type="submit" value="Login!">
+</form>
+
+<% include ./partials/footer %> 
