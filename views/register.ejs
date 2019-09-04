@@ -2,13 +2,14 @@
 <style>
 	 #login{
 		 text-align: center;
+		  margin: 25px;
 	}
 </style>
 <h1 id ="login">Sign Up!</h1>
 
 <form id ="login" action="/register" method="post">
-    <input type="text" name="username" placeholder="username">
-    <input type="password" name="password" placeholder="password">
-    <button>Sign Up</button>
+    <input type="text" name="username" placeholder="username" style="padding: 5px;">
+    <input type="password" name="password" placeholder="password" style="padding: 5px;">
+    <button class="btn-primary" style="padding: 5px;">Sign Up</button>
 </form>
 <% include ./partials/footer %> 
