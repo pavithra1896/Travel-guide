@@ -38,7 +38,7 @@ body {
 Each list item needs a background-image and the last four need an animation-delay (this way they all fire off one after the other in ten second intervals):*/
 
 .slideshow li:nth-child(1) { 
-  background-image: url(https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) 
+  background-image: url(https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateParis_Heroshutterstock_112137761.jpg) 
 }
 .slideshow li:nth-child(2) { 
   background-image: url(dn.londonandpartners.com/visit/general-london/areas/river/76709-640x360-houses-of-parliament-and-london-eye-on-thames-from-above-640.jpg);
