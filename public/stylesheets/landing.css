@@ -45,15 +45,15 @@ Each list item needs a background-image and the last four need an animation-dela
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 
-  background-image: url(https://www.fodors.com/assets/destinations/712962/poblenou-barcelona-spain-europe_980x650.jpg);
+  background-image: url(https://hotellacasadelsol-y66kjun72isdzyjss4l39vf.netdna-ssl.com/wp-   content/uploads/2017/03/Barcelona_-_panoramio_179.jpg);
   animation-delay: 20s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(https://www.fodors.com/assets/destinations/2869/tower-bridge-london-england_med.jpg);
+  background-image: url(https://wallpaperplay.com/walls/full/9/1/2/296535.jpg);
   animation-delay: 30s; 
 }
 .slideshow li:nth-child(5) { 
-  background-image: url(https://www.fodors.com/assets/destinations/713188/fountain-memorial-tugu-muda-semarang-indonesia_980x650.jpg);
+  background-image: url(https://images6.alphacoders.com/521/thumb-350-521630.jpg);
   animation-delay: 40s; 
 }
 /*Now we can create the keyframes for the animation:*/
