@@ -38,14 +38,14 @@ body {
 Each list item needs a background-image and the last four need an animation-delay (this way they all fire off one after the other in ten second intervals):*/
 
 .slideshow li:nth-child(1) { 
-  background-image: url(https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateParis_Heroshutterstock_112137761.jpg) 
+  background-image: url(https://wallpaperaccess.com/full/1093978.jpg) 
 }
 .slideshow li:nth-child(2) { 
   background-image: url(https://wallpaperaccess.com/full/129634.jpg);
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 
-  background-image: url(https://wallpaperaccess.com/full/1093978.jpg);
+  background-image: url(https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateParis_Heroshutterstock_112137761.jpg);
   animation-delay: 20s; 
 }
 .slideshow li:nth-child(4) { 
