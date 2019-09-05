@@ -41,7 +41,7 @@ Each list item needs a background-image and the last four need an animation-dela
   background-image: url(https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateParis_Heroshutterstock_112137761.jpg) 
 }
 .slideshow li:nth-child(2) { 
-  background-image: url(https://www.fodors.com/assets/destinations/54492/colosseum-ancient-rome-rome-italy-europe_med.jpg);
+  background-image: url(http://www.hexapolis.com/wp-content/uploads/2014/10/Colosseum_Roman_People.jpg);
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 
